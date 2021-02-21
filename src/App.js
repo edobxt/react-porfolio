@@ -1,10 +1,11 @@
 import "./App.css";
 import Typical from "react-typical";
+import Header from "./components/Header";
 
 function App() {
     return (
         <div className="mainPage">
-            <h1>Mon projet</h1>
+            <Header />
         </div>
     );
 }
