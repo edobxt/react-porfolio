@@ -1,0 +1,22 @@
+.NavBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.NavBar li {
+    display: inline;
+    float: left;
+}
+
+.NavBar a {
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+    color: rgb(17, 17, 17);
+}
+
+.NavBar a:hover {
+    text-decoration: underline;
+}

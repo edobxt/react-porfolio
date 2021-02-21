@@ -3,7 +3,7 @@ import React from "react";
 const KjLogo = () => {
     return (
         <div>
-            <h1>KJ</h1>
+            <p>KJ</p>
         </div>
     );
 };

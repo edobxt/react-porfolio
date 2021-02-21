@@ -1,0 +1,23 @@
+.HeaderBlock {
+    margin: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.HeaderBlock ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.HeaderBlock ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.HeaderBlock ul li:first-child {
+    margin-right: auto;
+    margin-left: 1rem;
+}
